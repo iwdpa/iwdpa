@@ -1,6 +1,6 @@
 ---
 title: IWDPA eMeeting Agenda and Minutes 10.12.16
-date: 2017-17-03 00:00:01
+date: 2017-03-17 00:00:01
 ---
 Agenda for IWDPA eMeeting (agenda items bold; UNAPPROVED minutes in blue)
 Wednesday, October 12, 2016
