@@ -14,9 +14,6 @@ links:
   - name:         About 
     url:          /about
     external:     false
- -  name:         Calls for Papers
-    url:          /cfp
-    external:     false
   - name:         Bibliography
     url:          /bib
     external:     false
@@ -26,7 +23,7 @@ links:
   - name:         Contact Us
     url:          /contact
     external:     false 
-
+    
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
