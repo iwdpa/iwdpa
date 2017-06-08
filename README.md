@@ -1,7 +1,7 @@
 # IWDPA home
 
-Issues with independentwriting.org? 
-Use GitHub Issues 
+Issues with independentwriting.org?   
+Use [GitHub Issues](https://github.com/iwdpa/iwdpa/issues)  
 
 ---
 Based on Scribble 
