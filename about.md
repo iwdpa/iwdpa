@@ -12,3 +12,5 @@ Its goals are to
 * build and nurture alliances between independent writing programs and departments and related programs such as first year experience, Writing Centers, and WAC/WID
 * support the growth of independent writing departments and programs by assisting those interested in creating such units in their home institutions
 * investigate and promote discussion of and collaboration among undergraduate majors in writing and rhetoric
+
+View the [IWDPA Constituion](images/constitution.pdf) 
