@@ -1,5 +1,5 @@
 ---
-title: Executive Board Meeting at CCCC in Pittsburg: March 14
+title: Executive Board Meeting at CCCC in Pittsburg
 date: 2019-03-06 00:00:01
 ---
 
