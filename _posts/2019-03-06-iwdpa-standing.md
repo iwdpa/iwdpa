@@ -1,5 +1,5 @@
 ---
-title: IWDPA Standing Panel at CCCC in Pittsburg: March 15
+title: IWDPA Standing Panel at CCCC in Pittsburg
 date: 2019-03-06 00:00:02
 ---
 
