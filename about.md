@@ -14,3 +14,16 @@ Its goals are to
 * investigate and promote discussion of and collaboration among undergraduate majors in writing and rhetoric
 
 View the [IWDPA Constituion](images/constitution.pdf) 
+
+## Who are We?
+The IWDPA’s Executive Board and Executive Committee are elected positions that run for three (3) years. Elections and nominations are announced and organized via the IWDPA’s Freewrit listserv. If you’d like to be added to the listserv, select Contact Us from this website and send us your information.
+
+### Current Executive Committee (Term Running from 2018 - 2020)
+
+|**President**   |Sue Pagnac  |Central College | 
+|**Vice President**   |Jan Rieman   |U of North Carolina at Charlotte|  
+|**Past President**   |Alice Myatt  |U of Mississippi |  
+
+### Current Executive Board (by term) 
+
+
