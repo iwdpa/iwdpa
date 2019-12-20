@@ -20,6 +20,7 @@ The IWDPA’s Executive Board and Executive Committee are elected positions that
 
 ### Current Executive Committee (Term Running from 2018 - 2020)
 
+|---|---|---|
 |**President**   |Sue Pagnac  |Central College | 
 |**Vice President**   |Jan Rieman   |U of North Carolina at Charlotte|  
 |**Past President**   |Alice Myatt  |U of Mississippi |  
