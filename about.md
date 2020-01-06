@@ -18,7 +18,7 @@ View the [IWDPA Constituion](images/constitution.pdf)
 ## Who are We?
 The IWDPA’s Executive Board and Executive Committee are elected positions that run for three (3) years. Elections and nominations are announced and organized via the IWDPA’s Freewrit listserv. If you’d like to be added to the listserv, select Contact Us from this website and send us your information.
 
-### Current Executive Committee (Term Running from 2018 - 2020)
+### Current Executive Committee (Term Running from 2018 -- 2020)
 
 | Office         | Name        | Institution                      |
 |----------------|-------------|----------------------------------|
@@ -31,25 +31,25 @@ The IWDPA’s Executive Board and Executive Committee are elected positions that
 
 | Name               | Institution                  | Term       |
 |--------------------|------------------------------|------------|
-| Laurie A\. Pinkert | U of Central Florida         | 2017\-2020 |
-| Justin Everett     | University of the Sciences   | 2018\-2021 |
-| Keri Franklin      | Missouri State U             | 2018\-2021 |
-| Cynthia Nahrwold   | U of Arkansas \- Little Rock | 2018\-2021 |
-| Anne\-Marie Womack | Tulane U                     | 2018\-2021 |
-| Carey Clark        | U of Central Arkansas        | 2019\-2022 |
-| Denise Comer       | Duke U                       | 2019\-2022 |
-| Caroline Dadas     | Montclair State U            | 2019\-2022 |
-| Jen Talbot         | U of Central Arkansas        | 2019\-2022 |
+| Laurie A. Pinkert  | U of Central Florida         | 2017\--2020 |
+| Justin Everett     | University of the Sciences   | 2018\--2021 |
+| Keri Franklin      | Missouri State U             | 2018\--2021 |
+| Cynthia Nahrwold   | U of Arkansas at Little Rock | 2018\--2021 |
+| Anne-Marie Womack  | Tulane U                     | 2018\--2021 |
+| Carey Clark        | U of Central Arkansas        | 2019\--2022 |
+| Denise Comer       | Duke U                       | 2019\--2022 |
+| Caroline Dadas     | Montclair State U            | 2019\--2022 |
+| Jen Talbot         | U of Central Arkansas        | 2019\--2022 |
 
 ### Secretary (Appointed)
 Abhi Rao  	
 Iowa State University  			
-2018-2020
+2018--2020
 
 ### Web Designer (Appointed)
 Lauren Malone  
 Iowas State University  			
-2018-2020
+2018--2020
 
 ### Emeritus Members
 In 2019, the IWDPA Executive Board approved the status of Emeritus Member in order to recognize outstanding contributions to the association. Emeritus Members are members for life.
